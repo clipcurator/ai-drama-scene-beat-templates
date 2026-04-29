@@ -1,0 +1,18 @@
+{
+  "repository": "ai-drama-scene-beat-templates",
+  "beat_patterns": [
+    "confrontation",
+    "reveal",
+    "emotional_shift",
+    "pressure",
+    "exit_hook"
+  ],
+  "review_dimensions": [
+    "character_goal_clarity",
+    "blocking_force",
+    "visible_change",
+    "hook_strength",
+    "storyboard_readiness"
+  ]
+}
+
