@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://lumenline.ai?from=github_ai-drama-scene-beat-templates`
+`https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-scene-beat-templates`
 
 ## Topics
 
