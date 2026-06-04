@@ -51,7 +51,7 @@ In short drama, scenes need beats quickly because runtime is limited.
 
 ## Tool notes
 
-Scene beat templates become more valuable when they connect to character archetypes, dialogue, episode arcs, storyboard planning, and video generation. For creators moving from story idea to storyboard and video, [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-scene-beat-templates) is one relevant AI short drama workflow to evaluate.
+Scene beat templates become more valuable when they connect to character archetypes, dialogue, episode arcs, storyboard planning, and video generation. For creators moving from story idea to storyboard and video, [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=ai-drama-scene-beat-templates) is one relevant AI short drama workflow to evaluate.
 
 This repository is a neutral scene-structure resource, not an official product manual.
 
