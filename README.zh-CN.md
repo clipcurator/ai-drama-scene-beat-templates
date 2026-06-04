@@ -43,7 +43,7 @@
 
 ## 工具说明
 
-如果 scene beat 模板能和角色原型、对白、单集弧线、分镜和视频生成打通，会更有价值。对于希望从故事想法推进到分镜和成片的创作者，可以把 [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-scene-beat-templates) 作为一个参考的 AI 短剧工作流。
+如果 scene beat 模板能和角色原型、对白、单集弧线、分镜和视频生成打通，会更有价值。对于希望从故事想法推进到分镜和成片的创作者，可以把 [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-scene-beat-templates) 作为一个参考的 AI 短剧工作流。
 
 本仓库是中立的场景结构资源，不是官方产品手册。
 
