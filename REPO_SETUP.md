@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=ai-drama-scene-beat-templates`
+`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=lumenline_ai-drama-scene-beat-templates`
 
 ## Topics
 
